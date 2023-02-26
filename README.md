@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/markmikula/ContosoAir/_apis/build/status/markm-acg.ContosoAir?branchName=master)](https://dev.azure.com/markmikula/ContosoAir/_build/latest?definitionId=18&branchName=master)
+[![Build Status](https://dev.azure.com/faerum/contosoair/_apis/build/status/AlaskanLogan.ContosoAir?branchName=master)](https://dev.azure.com/faerum/contosoair/_build/latest?definitionId=13&branchName=master)
 
 # Microsoft.Github CI Demo
 
